@@ -21,9 +21,6 @@ Gem::Specification.new do |s|
   s.files = [
     ".rspec",
     ".travis.yml",
-    ".travis/oracle/LICENSE",
-    ".travis/oracle/README.md",
-    ".travis/oracle/download.js",
     ".travis/oracle/download.sh",
     ".travis/oracle/install.sh",
     ".travis/setup_accounts.sh",
